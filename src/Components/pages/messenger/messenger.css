@@ -1,0 +1,33 @@
+.containerMessenger
+{
+    width: 1300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.messengerPanel
+{
+    margin-top: 18px;
+    width: 1042px;
+    height: 650px;
+    background: #FAFAFA;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    overflow: hidden;
+    display: flex;
+}
+.messageBlocks
+{
+    width: 361px;
+    overflow: auto;
+
+}
+.messageBlocks::-webkit-scrollbar
+{
+    display: none;
+}
+.chatPanelMessenger
+{
+    width: 681px;
+    border-left: 0.2px solid rgba(0,0,0,.1);
+}

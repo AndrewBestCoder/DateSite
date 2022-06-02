@@ -1,0 +1,44 @@
+.yourMsgComponent
+{
+    height: auto;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.yourAllComponent
+{
+    display: inline-block;
+    margin-bottom: 22px;
+    margin-right: 22px;
+}
+.yourNameMsg
+{
+    margin-bottom: 9px;
+    color: #FF7459;
+}
+.yourTimeMsg
+{
+    margin-right: 12px;
+    opacity: .5;
+}
+.yourPhotoMsg
+{
+    height: 55px;
+    width: 55px;
+    border-radius: 100px;
+    overflow: hidden;
+}
+.yourNameTimeMsg
+{
+    display: flex;
+}
+.yourMessageMsg
+{
+    display: flex;
+    justify-content: flex-end;
+}
+.yourNameMessageTimeMsg
+{
+    margin-right: 18px;
+}

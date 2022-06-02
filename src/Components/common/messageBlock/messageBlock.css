@@ -1,0 +1,67 @@
+.photoMessage
+{
+    width: 55px;
+    height: 55px;
+    border-radius: 100px;
+    overflow: hidden;
+    margin-left: 15px;
+}
+*
+{
+    text-decoration: none;
+}
+.message
+{
+    width: 361px;
+    height: 96px;
+    background: #FAFAFA;
+    border-bottom: 0.2px solid rgba(0,0,0,.1);
+    display: flex;
+    align-items: center;
+}
+.photoMes
+{
+    width: 25px;
+    height: 25px;
+    overflow: hidden;
+    border-radius: 100px;
+
+}
+.nameTextMessage
+{
+    padding-left: 15px;
+}
+.textMes
+{
+    display: flex;
+    align-items: center;
+
+}
+#pMes
+{
+    width: 100px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: black;
+    opacity: 0.5;
+    padding-left: 8px;
+}
+.nameMes
+{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    color: black;
+    display: flex;
+    margin-bottom: 8px;
+}
+.date
+{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    color: black;
+    opacity: 0.5;
+    padding-left: 10px;
+}

@@ -1,0 +1,21 @@
+.photoPeople
+{
+    width: 55px;
+    height: 55px;
+    border-radius: 100px;
+    overflow: hidden;
+    margin-right: 9px;
+}
+.chatHeader
+{
+    height: 67px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 0.2px solid rgba(0,0,0,.1);
+}
+#headerName
+{
+    padding-left: 10px;
+    font-size: 17px;
+}

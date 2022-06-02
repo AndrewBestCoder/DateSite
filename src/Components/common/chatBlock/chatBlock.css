@@ -1,0 +1,33 @@
+
+.chat
+{
+    height: 505px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.addMes
+{
+    height: 77px;
+    background: #F0F0F0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inpMessage
+{
+    width: 562px;
+    height: 40px;
+    background: #FAFAFA;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inpInMessage
+{
+    width: 532px;
+    height: 40px;
+    border: none;
+    outline: none;
+}

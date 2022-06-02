@@ -1,0 +1,59 @@
+.containerProfile
+{
+    max-width: 1300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.profilePanel
+{
+    width: 944px;
+    height: 601px;
+    filter: drop-shadow(0px 0px 20px rgba(0, 0, 0, 0.08));
+    background: #FFFFFF;
+    border-radius: 12px;
+    margin-top: 75px;
+}
+.photoProfile
+{
+    width: 160px;
+    height: 160px;
+    border-radius: 100px;
+    overflow: hidden;
+
+}
+.photoInfProfile
+{
+    display: flex;
+}
+.infProfile
+{
+    margin-left: 30px;
+}
+#dopInf
+{
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    margin-top: 39px;
+}
+.photoInfDesProfile
+{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.descriptionProfile
+{
+    margin-top: 32px;
+    width: 521px;
+    height: 239px;
+    background: #FFFFFF;
+    border: 0.3px solid #000000;
+    border-radius: 12px;
+}
+.desProfile
+{
+    padding: 15px;
+    opacity: 0.5;
+}

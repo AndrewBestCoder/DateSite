@@ -1,0 +1,67 @@
+
+.navbar
+{
+    width: 1200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Comfortaa', cursive;
+    margin-top: 24px;
+}
+.logo
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.imgLogo
+{
+    width: 33px;
+    height: 33px;
+    background: #FF7459;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+.textLogo
+{
+    font-size: 18px;
+    color: white;
+}
+.titleLogo
+{
+    font-size: 18px;
+    margin-left: 19px;
+}
+.nlink
+{
+    padding: 36px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration: none;
+    color: black;
+}
+.photo
+{
+    width: 32px;
+    height: 32px;
+    border-radius: 100px;
+    background: #bbbbbb;
+    margin-right: 8px;
+}
+.profile
+{
+    display: flex;
+    align-items: center;
+}
+.profileHead
+{
+    text-decoration: none;
+    color: black;
+    display: flex;
+    align-items: center;
+}
